@@ -109,7 +109,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "Menu",
+                      "text": "Menu2",
                       "key": "2andrl5uuk",
                       "isDeprecated": false,
                       "rightColumn": 41,
